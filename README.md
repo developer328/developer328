@@ -1,8 +1,9 @@
-Hi, my name is Nikoloz from georgia 🇬🇪. 
-I'am interested in embedded systems, low level programming and electronics engineering.
-Currently i'am learning microcontrollers, their architectures and their programming by C language.
+Hi, my name is Nikoloz. 
+I'm from georgia 🇬🇪. 
+I'm interested in embedded systems, low level programming and electronics engineering.
+Currently i'm learning microcontrollers, their architectures and their programming by C language.
 
-You can contact me by mail:
+You can contact me by email:
 nikoloz780@gmail.com
 
 Youtube:
